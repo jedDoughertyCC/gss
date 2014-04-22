@@ -1,0 +1,6 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.vimlog
+*.DS_store
+
